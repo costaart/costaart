@@ -3,7 +3,7 @@
 
 - 📖 Estudo Sistemas de Informação 
 - 💻 Tenho interesse em tecnologias Front-End
-- 🌐 Estou em busca de experiências na área para adquirir e melhorar minhas habilidades
+- 🌐 Estou estudando novas tecnologias em busca de adquirir e melhorar minhas habilidades
 
 <div align="center">
   <a href="https://github.com/costaart">
