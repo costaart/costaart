@@ -3,7 +3,7 @@
 
 - 📖 Bacharel em Sistemas de Informação 
 - 💻 Tenho interesse em tecnologias Full Stack
-- 🌐 Estou estudando novas tecnologias em busca de adquirir e melhorar minhas habilidades
+- 🚀 Atualmente se aprofundando em DevOps para expandir habilidades e otimizar processos de desenvolvimento
 
  ##
 <div> 
